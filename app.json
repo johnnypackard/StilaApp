@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StilaApp",
-    "description": "A very interesting project.",
+    "description": "An app for professional Stila Artists to track daily reporting.",
     "slug": "StilaApp",
     "privacy": "public",
     "sdkVersion": "31.0.0",
